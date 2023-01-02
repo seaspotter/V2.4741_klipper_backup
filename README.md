@@ -1,4 +1,4 @@
-# V2.4741_klipper_backup
+# V2.4741 Klipper Config Backup
 VORON V2.4741 Backup from SeaSpotter#4194 (Discord)
 
 # Features
