@@ -38,14 +38,14 @@ For MantaM8P
 
 ![image](https://user-images.githubusercontent.com/5041760/210430907-bf709288-b8a2-4d28-aa9e-72d6c8d3bfea.png)
 
-make flash FLASH_DEVICE=/dev/serial/by-id/usb-Klipper_stm32g0b1xx_530035000C504B4633373520-if00
+- make flash FLASH_DEVICE=/dev/serial/by-id/usb-Klipper_stm32g0b1xx_530035000C504B4633373520-if00
 
 For SB2040 CAN
 
 ![image](https://user-images.githubusercontent.com/5041760/210431112-60c6af39-2310-49c9-a129-7992140ba9f2.png)
 
-sudo service klipper stop
-cd ~/CanBoot/scripts
-python3 flash_can.py -i can0 -f ~/klipper/out/klipper.bin -u 841d241d87cb
-sudo service klipper start
+- sudo service klipper stop
+- cd ~/CanBoot/scripts
+- python3 flash_can.py -i can0 -f ~/klipper/out/klipper.bin -u 841d241d87cb
+- sudo service klipper start
 
