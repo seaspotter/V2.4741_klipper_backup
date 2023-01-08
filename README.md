@@ -24,6 +24,7 @@ VORON V2.4741 Backup from SeaSpotter#4194 (Discord)
 - [A Better Print_start](https://github.com/jontek2/A-better-print_start-macro)
 - [Z Autocalibration](https://github.com/protoloft/klipper_z_calibration)
 - [Clean Nozzle](https://github.com/VoronDesign/VoronUsers/blob/master/orphaned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_%26_Nozzle_Scrubber/Macros/nozzle_scrub.cfg)
+- [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 
 # Must Have
 - [Ellis Print Tuning](https://ellis3dp.com/Print-Tuning-Guide/)
